@@ -8,9 +8,9 @@
 
 ## Math behind Implimentation 
 
---- still in progress 
+watch lectures (8-12) in Introduction to Machine Learning course (link:https://www.youtube.com/watch?v=37iY5y-x_jY&list=PLFWlHcAOSQbrYzwTRTyoOiwjNjyCc_J1i) provided by Prof GC Nandi (Professor at IIIT Allahabad) 
 
-### ------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------------------------------
 ## project Name :	         Implimenting MultiLinear Regression Model From Scratch 
 ## Developer Name :	       Ranjith Kalingeri - 9182522753 - ranji.iitb@gmail.com - doing MTECH in CS in IIIAllahabad as of 02-06-2021. 
 ## Upload Date :	         02-06-2021
